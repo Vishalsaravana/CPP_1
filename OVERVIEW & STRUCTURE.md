@@ -13,13 +13,13 @@ To write a c++ program to display "Hello World" in first line and "Welcome to C+
 6.	End the program.
 
 ## PROGRAM:  
-
+```
 #include <iostream> using namespace std; int main()
 {
 cout<<"Hello World"<<endl; cout<<"Welcome to C++ Programming";
 
 } 
-
+```
 ## OUTPUT :
 ![image](https://github.com/user-attachments/assets/02afa911-2ea1-489c-a450-b7071e2b306b)
 
