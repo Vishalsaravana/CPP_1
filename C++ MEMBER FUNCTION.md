@@ -14,7 +14,7 @@ To write a C++ program to convert Celsius into Fahrenheit using inline function
 7.	End the program.
 
 ## PROGRAM :
-
+```
 #include <iostream> using namespace std;
 
 // Inline function to convert Celsius to Fahrenheit inline float convertToFahrenheit(float celsius) {
@@ -32,7 +32,7 @@ float fahrenheit = convertToFahrenheit(celsius);
 cout << "temperature in Fahrenheit:" << fahrenheit << endl;
  return 0 
 }
-
+```
 ## OUTPUT :
 ![image](https://github.com/user-attachments/assets/ff554026-e287-437d-bc02-9a0526fd4385)
 
