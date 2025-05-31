@@ -11,7 +11,7 @@ To write a C++ program to display "Im a default constructor" using a default con
 4.	End the program.
 
 ## PROGRAM :
-
+```
 #include<iostream> using namespace std; class Cont{
 public:
 Cont (){
@@ -22,7 +22,7 @@ int main()
 {
 Cont c; return 0;
 }
- 
+``` 
 ## OUTPUT :
 ![image](https://github.com/user-attachments/assets/c450c51a-91bc-4c9a-9435-8d06059a5659)
 
