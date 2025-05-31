@@ -11,7 +11,7 @@ To write a program in C++ to calculate the volume of a cube(declare side as priv
 4.	End the program.
 
 ## PROGRAM :
-
+```
 #include <iostream> using namespace std; class Cube{
 private:
 int side;
@@ -33,7 +33,7 @@ cube.setmember(sidee); int three=cube.calculate();
 cout<<"The Volume of Cube is:"<<three;
  
 }
-
+```
 ## OUTPUT :
 ![image](https://github.com/user-attachments/assets/fed49b21-a7d1-480b-ae13-c45c1e9de34e)
 
